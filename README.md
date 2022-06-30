@@ -23,7 +23,7 @@
 </p>
 
 <h3> CL Interface : </h3>
-<img src="https://github.com/IamSHUH/H_Metro_Ticket_Management/blob/main/Metro%20project_Using_mysql/gitReadmeIMages/1.jpg" alt="Handlandmark" />
+<img src="https://github.com/IamSHUH/Employee-Management-using-Python/blob/main/EMS-PYTHON/1.jpg" alt="Handlandmark" />
 
-<h3> QRcode Generated : </h3>
-<img src="https://github.com/IamSHUH/H_Metro_Ticket_Management/blob/main/Metro%20project_Using_mysql/gitReadmeIMages/2.jpg" alt="Handlandmark" />
+<h3> Banner : </h3>
+<img src="https://github.com/IamSHUH/Employee-Management-using-Python/blob/main/EMS-PYTHON/2.jpg" alt="Handlandmark" />
